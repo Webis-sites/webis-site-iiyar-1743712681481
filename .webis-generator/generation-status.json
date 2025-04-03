@@ -1,11 +1,54 @@
 {
-  "timestamp": "2025-04-03T20:38:17.956Z",
+  "timestamp": "2025-04-03T20:38:36.664Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 7,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, subheadline, and call to action for the bookstore"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section explaining the bookstore's expertise and experience"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the bookstore's services"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Section with a booking form for appointments"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Call-to-action section encouraging visitors to book an appointment"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and location details"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with essential links and copyright information"
+    }
+  ],
   "repoName": "webis-site-iiyar-1743712681481"
 }
